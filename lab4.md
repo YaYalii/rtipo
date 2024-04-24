@@ -2,7 +2,7 @@
 
 ## __1. Указание банка игрока__
 
-![lab4_1](https://github.com/YaYalii/rtipo/assets/131250193/d2b69791-205b-4615-a765-a336e25b575e)
+![lab4_1](https://github.com/YaYalii/rtipo/assets/131250193/44cb6b13-aa01-4c12-88fd-d3c4d3b0598f)
 
 
 |Действие| StartGame()|
@@ -36,8 +36,8 @@
 
 ## __2. Определение ставок__
 
+![lab4_2](https://github.com/YaYalii/rtipo/assets/131250193/b2e84c43-193b-4d47-8b66-8b416babde88)
 
-![lab4_2](https://github.com/YaYalii/rtipo/assets/131250193/d917f0ac-7a3e-4e3e-a0f1-b554b5a18e2e)
 
 
 |Действие| PlayRound(round)|
@@ -64,7 +64,7 @@
 
 ## __3. Бросание кубика__
 
-![lab4_3](https://github.com/YaYalii/rtipo/assets/131250193/9427ba54-7329-44d1-9b0d-9aeba64498fa)
+![lab4_3](https://github.com/YaYalii/rtipo/assets/131250193/bebf6444-ae1b-47b7-82be-7bbf12dc1231)
 
 
 |Действие| GetDiceValues()|
@@ -99,7 +99,8 @@
 ## __4. Завершение игры__
 
 
-![lab4_4](https://github.com/YaYalii/rtipo/assets/131250193/bf1deaf9-49f5-4f74-9d8b-c719219cf47e)
+![lab4_4](https://github.com/YaYalii/rtipo/assets/131250193/c4e876c6-2733-467d-8fb1-a84b9c3ff43f)
+
 
 
 |Действие| EndGame()|
