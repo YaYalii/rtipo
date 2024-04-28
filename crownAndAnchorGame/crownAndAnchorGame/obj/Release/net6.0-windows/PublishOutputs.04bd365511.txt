@@ -1,0 +1,5 @@
+C:\Users\alera\Desktop\crownAndAnchorGame.exe
+C:\Users\alera\Desktop\crownAndAnchorGame.dll
+C:\Users\alera\Desktop\crownAndAnchorGame.deps.json
+C:\Users\alera\Desktop\crownAndAnchorGame.runtimeconfig.json
+C:\Users\alera\Desktop\crownAndAnchorGame.pdb
